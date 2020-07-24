@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146281118094",
+    "firebase_url": "https://stayuglogin-12dba.firebaseio.com",
+    "project_id": "stayuglogin-12dba",
+    "storage_bucket": "stayuglogin-12dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146281118094:android:f7428871be298a86a28cdf",
+        "android_client_info": {
+          "package_name": "com.appsefdev.stayug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146281118094-jirrpd41fp7v24flj9hefk1i8957oqut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8ru0RaQcw2_PKZEmXqRmImlYyA6WoVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146281118094-jirrpd41fp7v24flj9hefk1i8957oqut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
